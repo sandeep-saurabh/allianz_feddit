@@ -1,0 +1,18 @@
+# IDE Specific ignore
+.idea/
+.vscode/
+
+# ignore ini files
+praw.ini
+
+# ignore all dotenv files
+.env*
+
+# python specific ignores
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# ignore scratches directory and nested directories
+**/scratches/
