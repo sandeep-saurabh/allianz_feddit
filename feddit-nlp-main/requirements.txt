@@ -1,5 +1,0 @@
-Flask
-praw
-Jinja2
-textblob
-flask-cors

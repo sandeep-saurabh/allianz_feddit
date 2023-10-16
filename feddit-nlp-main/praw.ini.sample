@@ -1,4 +1,0 @@
-[DEFAULT]
-client_id=your_client_id_without_quotes
-client_secret=your_client_secret_without_quotes
-user_agent=your_user_agent_without_quotes
